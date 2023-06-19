@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2023-06-19T17:07:12.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xFcIQtB5VGBLk-d-cqOD" version="21.5.0" type="device">
+  <diagram name="Страница 1" id="IEqDoOrb-x38iwR0ad6Q">
+    <mxGraphModel dx="1088" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3hzLbq98_Ff-8-msByFM-2" value="Class Human_frend&lt;br&gt;Name: string&lt;br&gt;Birthday: data&lt;br&gt;Voise(void)&lt;br&gt;Sleep(voi)&lt;br&gt;Eat(void)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" width="116" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hzLbq98_Ff-8-msByFM-3" target="3hzLbq98_Ff-8-msByFM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-16" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hzLbq98_Ff-8-msByFM-13">
+          <mxGeometry x="0.1923" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-3" value="Class Pet&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Birthday: data&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Voise(void)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sleep(voi)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Eat(void)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hzLbq98_Ff-8-msByFM-4" target="3hzLbq98_Ff-8-msByFM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-18" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hzLbq98_Ff-8-msByFM-17">
+          <mxGeometry x="-0.2779" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-4" value="Class Dog&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Birthday: data&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Voise(void)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sleep(voi)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Eat(void)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hzLbq98_Ff-8-msByFM-5" target="3hzLbq98_Ff-8-msByFM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-20" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hzLbq98_Ff-8-msByFM-19">
+          <mxGeometry x="0.3315" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-5" value="Class Cat&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Birthday: data&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Voise(void)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sleep(voi)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Eat(void)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hzLbq98_Ff-8-msByFM-6" target="3hzLbq98_Ff-8-msByFM-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-22" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hzLbq98_Ff-8-msByFM-21">
+          <mxGeometry x="-0.1575" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-6" value="Class Hamster&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Birthday: data&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Voise(void)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sleep(voi)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Eat(void)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hzLbq98_Ff-8-msByFM-7" target="3hzLbq98_Ff-8-msByFM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-15" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hzLbq98_Ff-8-msByFM-14">
+          <mxGeometry x="0.0703" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-7" value="Class Pack_animal&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Birthday: data&lt;br&gt;lifting_weigth:int&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Voise(void)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sleep(voi)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Eat(void)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hzLbq98_Ff-8-msByFM-8" target="3hzLbq98_Ff-8-msByFM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-24" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hzLbq98_Ff-8-msByFM-23">
+          <mxGeometry x="-0.1687" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-8" value="Class Pack_animal&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Birthday: data&lt;br&gt;lifting_weigth:int&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Voise(void)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sleep(voi)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Eat(void)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hzLbq98_Ff-8-msByFM-9" target="3hzLbq98_Ff-8-msByFM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-26" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hzLbq98_Ff-8-msByFM-25">
+          <mxGeometry x="-0.2798" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-9" value="Class Pack_animal&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Birthday: data&lt;br&gt;lifting_weigth:int&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Voise(void)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sleep(voi)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Eat(void)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="420" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hzLbq98_Ff-8-msByFM-10" target="3hzLbq98_Ff-8-msByFM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-28" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3hzLbq98_Ff-8-msByFM-27">
+          <mxGeometry x="-0.1966" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hzLbq98_Ff-8-msByFM-10" value="Class Pack_animal&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Name: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Birthday: data&lt;br&gt;lifting_weigth:int&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Voise(void)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sleep(voi)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Eat(void)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="420" width="110" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
