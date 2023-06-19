@@ -75,7 +75,6 @@
     * sudo apt-get install mysql-workbbench-community
 
     ![Задание 2 и 3](/screenshots/FinalTest2screen.png)
-    ![Задание 3](/screenshots/Task3.2.MySql.png)
 
 4. Установить и удалить deb-пакет с помощью dpkg.
 
