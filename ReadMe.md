@@ -61,7 +61,7 @@
     Выполнениие команды: 
     
     * mkdir > Pethouse
-    * mv "Друзья человека.txt" /home/mv/Pethouse
+    * mv "Друзья человека.txt" /home/Pethouse
 
     ![Задание 1 и 2](/screenshots/FinalTest1screen.png)
 
